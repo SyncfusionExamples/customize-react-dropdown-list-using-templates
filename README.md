@@ -8,7 +8,7 @@ Online examples: https://ej2.syncfusion.com/react/demos/#/bootstrap5/drop-down-l
 
 ## Project prerequisites
 
-Make sure that you have the latest versions of NodeJS and visual studio code in your machine before starting to work on this project.
+Make sure that you have the latest versions of NodeJS and Visual Studio Code in your machine before starting to work on this project.
 
 ### How to run this application?
 
